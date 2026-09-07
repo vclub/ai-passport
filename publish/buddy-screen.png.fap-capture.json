@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "protocol": "FAP_SCREENSHOT_V1",
+  "source": "serial-framebuffer",
+  "screenshot": "buddy-screen.png",
+  "sha256": "64b499211ae53819849ca7fda682a760273efe5035421669538e4fa0a2f47651",
+  "width": 240,
+  "height": 320,
+  "port": "/dev/cu.usbmodem2101",
+  "capturedAt": 1788753555
+}
